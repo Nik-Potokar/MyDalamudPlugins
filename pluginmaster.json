@@ -8,11 +8,11 @@
         "RepoUrl": "https://github.com/Nik-Potokar/XIVComboWayTooAkiiified",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
-        "DownloadLinkInstall": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/master/plugins/XIVComboWayTooAkiiified/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVComboWayTooAkiiified/Latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/blob/main/plugins/XIVComboWayTooAkiiified/Latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/blob/main/plugins/XIVComboWayTooAkiiified/Latest.zip",
+        "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVComboWayTooAkiiified/Latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVComboWayTooAkiiified/Latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1636773706"
     }
