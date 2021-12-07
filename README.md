@@ -12,6 +12,7 @@ Custom Repo Link:
 
 ## Gunbreaker
 * Everything seems to be working as intended
+* Ammo check for lower level instances to be added (Overcapfeature will break on non current endgame content)
 
 ## Monk
 * Functions but needs a rework ( don't recommend using)
