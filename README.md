@@ -36,9 +36,8 @@ Custom Repo Link:
 * Easy Demi Summons added (Optimization coming soon)
 * Egi-Primals feature added onto main combo (Currently testing Astral flow feature)
 
-
 ## Warrior
-* Some features work but they need to be tweaked due to changes to warrior
+* Seems to be working as usual up to lvl80 (might break with new stuff, needs testing)
 
 ## WhiteMage
 * seems to be working as intended
@@ -48,19 +47,19 @@ Custom Repo Link:
 * Main combo works correctly
 * Proc Feature dosent work needs to be updated
 
-
 ## BlackMage
 * Easy blm rotation is now added onto fire4 (previously on enochian)
 
 ## Astro
 * Works as intended
-* Adding crown play feature in next update
+* Crown play added (Icon bugged/only works after you play a card)
 
 ## Sage
 * Features Will be added 
 
 ## Reaper 
 * Basic combo and aoe combo added
+* 
 
 ## Dragoon
 /////// Cant test
