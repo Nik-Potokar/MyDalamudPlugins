@@ -11,64 +11,55 @@ Custom Repo Link:
 * Every feature is working as intended and icons are updated correctly
 
 ## Gunbreaker
-* No-Mercy feature not working 100% as intended (Sonic break needs fix)
-* Main Combo feature dosent update icons correctly
-* All other features work correctly and update their icons correclty (Remove and add the icon again)
+* Everything seems to be working as intended
 
 ## Monk
-* Functions but needs a rework (Dont use!)
+* Functions but needs a rework ( don't recommend using)
 
 ## Ninja
-* Aoe feature functions correclty
-* Main combo feature needs rework 
-* TenChIJin Working as intended
-* Mudra on GCD not working
+* Everything up to lvl 80 is working correctly
 
 ## Paladin
-* Aoe feature functions correclty
-* Main combo needs rework
-* Confetior/requi feature needs reworking
+* Everything seems to be working as intended (but needs bit more testing )
 
 ## Dark Knight
-* All features work but none of the icons are correctly updated
+* All features work as intended 
 
 ## Samurai
-* All features work but none of the icons are correctly updated
+* All features work (Needs testing)
 
 ## Scholar 
-* Raise works but the icon does not update correctly
-* ED > Aetherflow works but icon does not update correctly
+* Needs small tweaks 
 
 ## Summoner
-* Needs complete rework 
+* ED Ruin feature added
+* Easy demi summons feature is being worked on
+
 
 ## Warrior
 * Some features work but they need to be tweaked due to changes to warrior
 
 ## WhiteMage
-* Raise feature dosent work
-* Icons do not get updated correctly for all other working features
+* seems to be working as intended
 
 ## Dancer
 * Auto steps work correctly
 * Main combo works correctly
 * Proc Feature dosent work needs to be updated
-* FanDance procs do not update their icons properly
+
 
 ## BlackMage
-* Between the lines works correctly
-* Due to enochian changes everything else needs to be reworked
+* Easy blm rotation is now added onto fire4 (previously on enochian)
 
 ## Astro
-* Sleeve draw needs to be removed
-* Play works as intended (Needs testing with Crown Play)
-* Raise feature works but does not update the icon correctly
+* Works as intended
+* Adding crown play feature in next update
 
 ## Sage
-* Features Will be added
+* Features Will be added 
 
 ## Reaper 
-* Features Will be added
+* Basic combo and aoe combo added
 
 ## Dragoon
 /////// Cant test
