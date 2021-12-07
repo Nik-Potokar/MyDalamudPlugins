@@ -67,6 +67,8 @@ Custom Repo Link:
 ## Bard
 /////// Cant test
 
+This repo/plugin fork will be renamed in the future.
+
 
 
 
