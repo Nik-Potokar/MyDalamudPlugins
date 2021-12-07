@@ -33,7 +33,8 @@ Custom Repo Link:
 
 ## Summoner
 * ED Ruin feature added
-* Easy demi summons feature is being worked on
+* Easy Demi Summons added (Optimization coming soon)
+* Egi-Primals feature added onto main combo (Currently testing Astral flow feature)
 
 
 ## Warrior
