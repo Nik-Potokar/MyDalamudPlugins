@@ -3,8 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - master
-    - api4
+    - main
 concurrency: regenerate
 jobs:
   generate:
