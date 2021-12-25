@@ -1,11 +1,11 @@
 [
     {
         "Author": "attick, daemitus, alymphocyte, Aki",
-        "Name": "XIVComboWayTooAkiiified",
+        "Name": "XIVSlothCombo",
         "Description": "XIVCombo But For Lazy Gamers, Should Have Everything That Original XIVCombo Has And More +++",
-        "InternalName": "XIVComboWayTooAkiiified",
+        "InternalName": "XIVSlothCombo",
         "AssemblyVersion": "1.7.20",
-        "RepoUrl": "https://github.com/Nik-Potokar/XIVComboWayTooAkiiified",
+        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
         "DownloadLinkInstall": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVComboWayTooAkiiified/latest.zip",
