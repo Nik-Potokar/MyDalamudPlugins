@@ -1,8 +1,8 @@
 {
-  "Author": "attick,Kami,Daemitus,Grammernatzi,Aki,Iaotle,Codemned,PrincessRTFM,damolitionn,ele-starshade, k-kz",
+  "Author": "attick, Kami, Daemitus, Grammernatzi, Aki, Iaotle, Codemned, PrincessRTFM, damolitionn, ele-starshade, k-kz",
   "Name": "XIVSlothCombo",
   "InternalName": "XIVSlothCombo",
-  "AssemblyVersion": "3.0.7.7",
+  "AssemblyVersion": "3.0.7.8",
   "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
@@ -13,5 +13,5 @@
   ],
   "IconUrl": "https://i.imgur.com/UeRukF8.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-  "Changelog": "Icon update"
+  "Changelog": "Huge DNC update, with Features and Fixes. Please see the project's GitHub page for a full changelog."
 }
