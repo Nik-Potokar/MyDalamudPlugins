@@ -2,8 +2,8 @@
   "Author": "attick, Kami, Daemitus, Grammernatzi, Aki, Iaotle, Codemned, PrincessRTFM, damolitionn, ele-starshade, k-kz",
   "Name": "XIVSlothCombo",
   "InternalName": "XIVSlothCombo",
-  "AssemblyVersion": "3.0.8.7",
-  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
+  "AssemblyVersion": "3.0.8.8",
+  "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
   "DalamudApiLevel": 5,
@@ -13,5 +13,5 @@
   ],
   "IconUrl": "https://i.imgur.com/UeRukF8.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-  "Changelog": "Large-scale update with Framework updates and features/fixes for AST, DRG, DRK, PLD, WAR and WHM. Please check the project's GitHub or Discord for a full changelog."
+  "Changelog": "Updates and features/fixes for AST, BLM, DRG, GNB, NIN, SGE and WAR. Please check the project's GitHub or Discord for a full changelog."
 }
