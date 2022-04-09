@@ -4,9 +4,9 @@
         "Name": "XIVSlothCombo",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Changelog": "Hotfix for Conflicting Child Combos. UPDATE ASAP! Also a small PLD fix. Please check the project's GitHub or Discord for a full changelog.",
+        "Changelog": "Features, Fixes & Enhancements for Framework, Tanks (Global), BLM, DRK, GNB, PLD, MCH and SGE. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "3.0.8.13",
+        "AssemblyVersion": "3.0.9.0",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
@@ -21,6 +21,6 @@
         "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649370873"
+        "LastUpdated": "1649475828"
     }
 ]
