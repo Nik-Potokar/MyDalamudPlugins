@@ -2,7 +2,7 @@
   "Author": "attick, Kami, Daemitus, Grammernatzi, Aki, Iaotle, Codemned, PrincessRTFM, damolitionn, ele-starshade, k-kz, Taurenkey, Augporto, grimgal",
   "Name": "XIVSlothCombo",
   "InternalName": "XIVSlothCombo",
-  "AssemblyVersion": "3.0.9.0",
+  "AssemblyVersion": "3.0.9.3",
   "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
@@ -13,5 +13,5 @@
   ],
   "IconUrl": "https://i.imgur.com/UeRukF8.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-  "Changelog": "Features, Fixes & Enhancements for Framework, Tanks (Global), BLM, DRK, GNB, PLD, MCH and SGE. Please check the project's GitHub or Discord for a full changelog."
+  "Changelog": "Features, Fixes & Enhancements for Framework, Tanks (Global), BRD, DRK, GNB, MNK and RDM. Please check the project's GitHub or Discord for a full changelog."
 }
