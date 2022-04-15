@@ -4,9 +4,9 @@
         "Name": "XIVSlothCombo",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Changelog": "v3.0.9.4 - [6.1 Compatibility Developer Build]. Please check the project's GitHub or Discord for a full changelog.",
+        "Changelog": "v3.0.10.0 - [6.1 Compatibility Patch] Updates to all 6.1 jobs, improvements to framework and submodules. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "3.0.9.4",
+        "AssemblyVersion": "3.0.10.0",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
@@ -21,6 +21,6 @@
         "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649963704"
+        "LastUpdated": "1650023333"
     }
 ]
