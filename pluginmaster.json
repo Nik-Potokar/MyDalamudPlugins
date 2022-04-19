@@ -4,9 +4,9 @@
         "Name": "XIVSlothCombo",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Changelog": "Features, Fixes & Enhancements for Framework, BRD, DRK, MCH, MNK, NIN, PLD, RDM, SGE, SMN and WHM. Please check the project's GitHub or Discord for a full changelog.",
+        "Changelog": "Features, Fixes & Enhancements for BRD, GNB, MCH, PLD, RDM, SGE, SMN and WAR. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "3.0.10.2",
+        "AssemblyVersion": "3.0.10.3",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
@@ -21,6 +21,6 @@
         "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1650167782"
+        "LastUpdated": "1650336739"
     }
 ]
