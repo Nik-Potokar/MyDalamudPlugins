@@ -2,7 +2,7 @@
   "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
   "Name": "XIVSlothCombo",
   "InternalName": "XIVSlothCombo",
-  "AssemblyVersion": "3.0.11.3",
+  "AssemblyVersion": "3.0.12.0",
   "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
@@ -13,5 +13,5 @@
   ],
   "IconUrl": "https://i.imgur.com/UeRukF8.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-  "Changelog": "Features, Fixes & Enhancements for DRK, BRDPvP, DNCPvP, MCHPvP, NINPvP, RDMPvP, and WARPvP. Please check the project's GitHub or Discord for a full changelog."
+  "Changelog": "Samurai Rework is here! Along with Features, Fixes & Enhancements for PvP-Globals, AST, DRK, GNB, NIN, PLD, RDM, SAM, SMN, WAR and WHM. Please check the project's GitHub or Discord for a full changelog."
 }
