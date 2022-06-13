@@ -2,7 +2,7 @@
   "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
   "Name": "XIVSlothCombo",
   "InternalName": "XIVSlothCombo",
-  "AssemblyVersion": "3.0.15.3",
+  "AssemblyVersion": "3.0.16.0",
   "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
@@ -13,5 +13,5 @@
   ],
   "IconUrl": "https://i.imgur.com/UeRukF8.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-  "Changelog": "Features, Fixes & Enhancements for Framework, AST, BLM, BLMPvP, DRG, DRGPvP, MCH, NIN, PLD, RDM, RPR, SCH, SGE, SMN, WAR and WHM. Please check the project's GitHub or Discord for a full changelog."
+  "Changelog": "Features, Fixes & Enhancements for Framework, MCH, NIN and SCH. Please check the project's GitHub or Discord for a full changelog."
 }
