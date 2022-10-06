@@ -1,12 +1,12 @@
 [
     {
-        "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
+        "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal, Genesis-Nova, Tartarga",
         "Name": "XIVSlothCombo",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Changelog": "Features, Fixes & Enhancements for Framework, SCH and SGE. Please check the project's GitHub or Discord for a full changelog.",
+        "Changelog": "Features, Fixes & Enhancements for Framework, Globals, BLM, BLMPvP, BRD, BTN, DRG, DRK, GNB, MCH, MIN, MNK, NIN, RPR, SAM, SCH, SGE, SMN and WAR. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "3.0.17.2",
+        "AssemblyVersion": "3.0.17.3",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
@@ -21,6 +21,6 @@
         "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1662499266"
+        "LastUpdated": "1665073330"
     }
 ]
