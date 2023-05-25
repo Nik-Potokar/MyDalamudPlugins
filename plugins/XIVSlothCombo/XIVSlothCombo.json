@@ -2,16 +2,19 @@
   "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal, Genesis-Nova, Tartarga",
   "Name": "XIVSlothCombo",
   "InternalName": "XIVSlothCombo",
-  "AssemblyVersion": "3.0.18.1",
+  "AssemblyVersion": "3.0.18.2",
   "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
   "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://i.imgur.com/iEcxM81.png"
   ],
   "IconUrl": "https://i.imgur.com/iEcxM81.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-  "Changelog": "Features, Fixes & Enhancements Framework, DoH, PLD, RDM, SGE, WAR, WHM, ASTPvP and GNBPvP. Please check the project's GitHub or Discord for a full changelog."
+  "Changelog": "Features, Fixes & Enhancements Framework, AST, PLD, RDM, SCH, SMN and WHM. Please check the project's GitHub or Discord for a full changelog.",
+  "AcceptsFeedback": true
 }
