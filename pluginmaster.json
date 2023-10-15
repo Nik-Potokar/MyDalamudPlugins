@@ -6,7 +6,7 @@
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Changelog": "Features, Fixes & Enhancements for Framework, AST, ASTPvP, RDM, SGE and SCH. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "3.1.0.2",
+        "AssemblyVersion": "3.1.0.3",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -21,6 +21,6 @@
         "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1697376813"
+        "LastUpdated": "1697378384"
     }
 ]
